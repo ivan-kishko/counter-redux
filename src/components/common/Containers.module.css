@@ -1,0 +1,30 @@
+.mainContainer {
+    box-sizing: border-box;
+    min-height: 300px;
+    border: 2px solid blue;
+    border-radius: 10px;
+    width: 400px;
+    padding: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.upperContainer {
+    min-height: 170px;
+    color: white;
+    text-align: center;
+    border: 2px solid blue;
+    border-radius: 10px;
+}
+
+.bottomContainer {
+    min-height: 80px;
+    line-height: 100px;
+    text-align: center;
+    border: 2px solid blue;
+    border-radius: 10px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}

@@ -1,0 +1,17 @@
+.inputContainer {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.localInput {
+    height: 30px;
+    font-size: 15px;
+    padding: 0;
+    outline: none;
+}
+
+.localInputError {
+    border: 2px solid red;
+    background-color: pink;
+}

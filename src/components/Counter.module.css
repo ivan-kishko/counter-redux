@@ -1,0 +1,13 @@
+.displayContainer {
+    font-size: 90px;
+    line-height: 160%;
+}
+
+.error {
+    font-size: 30px;
+    line-height: 85px;
+}
+
+.errorRed {
+    color: red;
+}
